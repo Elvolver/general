@@ -1,0 +1,3 @@
+spring:
+  application:
+    name: amigoscode_java_spring_microservices
