@@ -1,3 +1,5 @@
 spring:
   application:
     name: amigoscode_java_spring_microservices
+server:
+  port: 8090
